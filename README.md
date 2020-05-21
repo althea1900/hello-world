@@ -1,5 +1,5 @@
 # hello-world
 
-This is the REAFME branch.
+This is the README branch.
 
-I'm am going to figute this all out and master it!
+I'm am going to figure this all out and master it!
